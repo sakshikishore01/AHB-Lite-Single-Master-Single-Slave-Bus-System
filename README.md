@@ -128,3 +128,5 @@ To prevent critical bus contention and pipeline data overwrites, the peripheral 
 
 ### 4. Summary Takeaway
 The successful lint profiles under Cadence HAL and zero-error simulation completion at **410 ns** confirm that the hardware system is structurally sound, protocol-compliant, and fully verified. It reflects industrial-grade fluency with standard EDA environments (**ncvlog**, **ncelab**, **ncsim**, **HAL**, and **SimVision** SHM database tracking).
+
+<img width="1920" height="1080" alt="Screenshot from 2026-06-04 11-58-55" src="https://github.com/user-attachments/assets/088cdebb-1bbb-4c03-9276-67adf4b8e735" />
